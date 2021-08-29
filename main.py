@@ -31,21 +31,21 @@ HELP_TEXT = """
 • Use Telegram public channel or group message links
 • You can send any type of links for attaching
 
-Made by @FayasNoushad
+Made by 🐼
 """
 ABOUT_TEXT = """
 - **Bot :** `Attach Bot`
-- **Creator :** [Fayas](https://telegram.me/TheFayas)
-- **Channel :** [Fayas Noushad](https://telegram.me/FayasNoushad)
-- **Source :** [Click here](https://github.com/FayasNoushad/Attach-Bot)
+- **Creator :** [Hydra](https://t.me/Tg_Hydra_Galaxy)
+- **Andros :** [Hydra](https://t.me/Tg_Hydra_Galaxy)
+- **Source :** [Click here](https://t.me/Tg_Hydra_Galaxy)
 - **Language :** [Python3](https://python.org)
 - **Library :** [Pyrogram](https://pyrogram.org)
 - **Server :** [Heroku](https://heroku.com)
 """
 START_BUTTONS = InlineKeyboardMarkup(
         [[
-        InlineKeyboardButton('Channel', url='https://telegram.me/FayasNoushad'),
-        InlineKeyboardButton('Feedback', url='https://telegram.me/TheFayas')
+        InlineKeyboardButton('Channel', url='https://t.me/Tg_Hydra_Galaxy'),
+        InlineKeyboardButton('Feedback', url='https://t.me/Tg_Hydra_Galaxy')
         ],[
         InlineKeyboardButton('Help', callback_data='help'),
         InlineKeyboardButton('About', callback_data='about'),
