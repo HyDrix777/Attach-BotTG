@@ -19,7 +19,7 @@ FayasNoushad = Client(
 START_TEXT = """
 Hello {}, I am a media or file in a message attach bot. I can attach photo, video, audio etc. using their public links in a message.
 
-Made by @FayasNoushad
+
 """
 HELP_TEXT = """
 <u><b>Steps :-</b></u>
