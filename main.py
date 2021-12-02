@@ -35,7 +35,7 @@ Made by 🐼
 """
 ABOUT_TEXT = """
 - **Bot :** `Attach Bot`
-- **Creator :** [Hydra](https://t.me/Tg_Hydra_Galaxy)
+- **Creator :** [Hydrix](https://t.me/Tg_Hydra_Galaxy)
 - **Andros :** [Hydra](https://t.me/Tg_Hydra_Galaxy)
 - **Source :** [Click here](https://t.me/Tg_Hydra_Galaxy)
 - **Language :** [Python3](https://python.org)
@@ -44,8 +44,8 @@ ABOUT_TEXT = """
 """
 START_BUTTONS = InlineKeyboardMarkup(
         [[
-        InlineKeyboardButton('Channel', url='https://t.me/Tg_Hydra_Galaxy'),
-        InlineKeyboardButton('Feedback', url='https://t.me/Tg_Hydra_Galaxy')
+        InlineKeyboardButton('Channel', url='https://t.me/Tg_Galaxy'),
+        InlineKeyboardButton('Feedback', url='https://t.me/HydraLivegrambot)
         ],[
         InlineKeyboardButton('Help', callback_data='help'),
         InlineKeyboardButton('About', callback_data='about'),
