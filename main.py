@@ -27,25 +27,25 @@ HELP_TEXT = """
 - 𝗥𝗲𝗽𝗹𝘆 𝗮 𝗹𝗶𝗻𝗸 𝗳𝗼𝗿 𝗮𝘁𝘁𝗮𝗰𝗵𝗶𝗻𝗴
 
 <u><b>Tips :-</b></u>
-• Use @FnTelegraphBot for telegraph links of photos and videos
-• Use Telegram public channel or group message links
-• You can send any type of links for attaching
+• 𝗨𝘀𝗲 @Telegra_Xtgbot 𝗳𝗼𝗿 𝘁𝗲𝗹𝗲𝗴𝗿𝗮𝗽𝗵 𝗹𝗶𝗻𝗸𝘀 𝗼𝗳 𝗽𝗵𝗼𝘁𝗼𝘀 𝗮𝗻𝗱 𝘃𝗶𝗱𝗲𝗼𝘀
+• 𝗨𝘀𝗲 𝗧𝗲𝗹𝗲𝗴𝗿𝗮𝗺 𝗽𝘂𝗯𝗹𝗶𝗰 𝗰𝗵𝗮𝗻𝗻𝗲𝗹 𝗼𝗿 𝗴𝗿𝗼𝘂𝗽 𝗺𝗲𝘀𝘀𝗮𝗴𝗲 𝗹𝗶𝗻𝗸𝘀
+• 𝗬𝗼𝘂 𝗰𝗮𝗻 𝘀𝗲𝗻𝗱 𝗮𝗻𝘆 𝘁𝘆𝗽𝗲 𝗼𝗳 𝗹𝗶𝗻𝗸𝘀 𝗳𝗼𝗿 𝗮𝘁𝘁𝗮𝗰𝗵𝗶𝗻𝗴
 
-Made by 🐼
+𝗠𝗮𝗱𝗲 𝗯𝘆 🦸
 """
 ABOUT_TEXT = """
 - **Bot :** `Attach Bot`
-- **Creator :** [Hydrix](https://t.me/Tg_Hydra_Galaxy)
+- **Creator :** [Hydrix](https://t.me/HydraLivegrambot)
 - **Andros :** [Hydra](https://t.me/Tg_Hydra_Galaxy)
-- **Source :** [Click here](https://t.me/Tg_Hydra_Galaxy)
+- **Channel :** [Click here](https://t.me/Tg_Galaxy)
 - **Language :** [Python3](https://python.org)
 - **Library :** [Pyrogram](https://pyrogram.org)
 - **Server :** [Heroku](https://heroku.com)
 """
 START_BUTTONS = InlineKeyboardMarkup(
         [[
-        InlineKeyboardButton('Channel', url='https://t.me/Tg_Galaxy'),
-        InlineKeyboardButton('Feedback', url='https://t.me/HydraLivegrambot)
+        InlineKeyboardButton('📣 𝗖𝗵𝗮𝗻𝗻𝗲𝗹', url='https://t.me/Tg_Galaxy'),
+        InlineKeyboardButton('🗣️ 𝗢𝘄𝗻𝗲𝗿', url='https://t.me/HydraLivegrambot)
         ],[
         InlineKeyboardButton('Help', callback_data='help'),
         InlineKeyboardButton('About', callback_data='about'),
