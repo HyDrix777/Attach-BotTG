@@ -17,14 +17,14 @@ FayasNoushad = Client(
 )
 
 START_TEXT = """
-Hello {}, I am a media or file in a message attach bot. I can attach photo, video, audio etc. using their public links in a message.
+𝗛𝗲𝗹𝗹𝗼 {}, 𝗜 𝗮𝗺 𝗮 𝗺𝗲𝗱𝗶𝗮 𝗼𝗿 𝗳𝗶𝗹𝗲 𝗶𝗻 𝗮 𝗺𝗲𝘀𝘀𝗮𝗴𝗲 𝗮𝘁𝘁𝗮𝗰𝗵 𝗯𝗼𝘁. 𝗜 𝗰𝗮𝗻 𝗮𝘁𝘁𝗮𝗰𝗵 𝗽𝗵𝗼𝘁𝗼, 𝘃𝗶𝗱𝗲𝗼, 𝗮𝘂𝗱𝗶𝗼 𝗲𝘁𝗰. 𝘂𝘀𝗶𝗻𝗴 𝘁𝗵𝗲𝗶𝗿 𝗽𝘂𝗯𝗹𝗶𝗰 𝗹𝗶𝗻𝗸𝘀 𝗶𝗻 𝗮 𝗺𝗲𝘀𝘀𝗮𝗴𝗲.
 
 
 """
 HELP_TEXT = """
 <u><b>Steps :-</b></u>
-- Just send a html or markdown message
-- Reply a link for attaching
+- 𝗝𝘂𝘀𝘁 𝘀𝗲𝗻𝗱 𝗮 𝗵𝘁𝗺𝗹 𝗼𝗿 𝗺𝗮𝗿𝗸𝗱𝗼𝘄𝗻 𝗺𝗲𝘀𝘀𝗮𝗴𝗲
+- 𝗥𝗲𝗽𝗹𝘆 𝗮 𝗹𝗶𝗻𝗸 𝗳𝗼𝗿 𝗮𝘁𝘁𝗮𝗰𝗵𝗶𝗻𝗴
 
 <u><b>Tips :-</b></u>
 • Use @FnTelegraphBot for telegraph links of photos and videos
