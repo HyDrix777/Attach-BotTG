@@ -17,21 +17,21 @@ FayasNoushad = Client(
 )
 
 START_TEXT = """
-𝗛𝗲𝗹𝗹𝗼 {}, 𝗜 𝗮𝗺 𝗮 𝗺𝗲𝗱𝗶𝗮 𝗼𝗿 𝗳𝗶𝗹𝗲 𝗶𝗻 𝗮 𝗺𝗲𝘀𝘀𝗮𝗴𝗲 𝗮𝘁𝘁𝗮𝗰𝗵 𝗯𝗼𝘁. 𝗜 𝗰𝗮𝗻 𝗮𝘁𝘁𝗮𝗰𝗵 𝗽𝗵𝗼𝘁𝗼, 𝘃𝗶𝗱𝗲𝗼, 𝗮𝘂𝗱𝗶𝗼 𝗲𝘁𝗰. 𝘂𝘀𝗶𝗻𝗴 𝘁𝗵𝗲𝗶𝗿 𝗽𝘂𝗯𝗹𝗶𝗰 𝗹𝗶𝗻𝗸𝘀 𝗶𝗻 𝗮 𝗺𝗲𝘀𝘀𝗮𝗴𝗲.
+Hello {}, I am a media or file in a message attach bot. I can attach photo, video, audio etc. using their public links in a message.
 
 
 """
 HELP_TEXT = """
-<u><b>Steps :-</b></u>
-- 𝗝𝘂𝘀𝘁 𝘀𝗲𝗻𝗱 𝗮 𝗵𝘁𝗺𝗹 𝗼𝗿 𝗺𝗮𝗿𝗸𝗱𝗼𝘄𝗻 𝗺𝗲𝘀𝘀𝗮𝗴𝗲
-- 𝗥𝗲𝗽𝗹𝘆 𝗮 𝗹𝗶𝗻𝗸 𝗳𝗼𝗿 𝗮𝘁𝘁𝗮𝗰𝗵𝗶𝗻𝗴
-
+<u><b>Steps :-</b>You can send any type of links to attaching
+</u>
+- Just send a html or markdown message
+- Reply a link for attaching
 <u><b>Tips :-</b></u>
-• 𝗨𝘀𝗲 @Telegra_Xtgbot 𝗳𝗼𝗿 𝘁𝗲𝗹𝗲𝗴𝗿𝗮𝗽𝗵 𝗹𝗶𝗻𝗸𝘀 𝗼𝗳 𝗽𝗵𝗼𝘁𝗼𝘀 𝗮𝗻𝗱 𝘃𝗶𝗱𝗲𝗼𝘀
-• 𝗨𝘀𝗲 𝗧𝗲𝗹𝗲𝗴𝗿𝗮𝗺 𝗽𝘂𝗯𝗹𝗶𝗰 𝗰𝗵𝗮𝗻𝗻𝗲𝗹 𝗼𝗿 𝗴𝗿𝗼𝘂𝗽 𝗺𝗲𝘀𝘀𝗮𝗴𝗲 𝗹𝗶𝗻𝗸𝘀
-• 𝗬𝗼𝘂 𝗰𝗮𝗻 𝘀𝗲𝗻𝗱 𝗮𝗻𝘆 𝘁𝘆𝗽𝗲 𝗼𝗳 𝗹𝗶𝗻𝗸𝘀 𝗳𝗼𝗿 𝗮𝘁𝘁𝗮𝗰𝗵𝗶𝗻𝗴
+• Use @Telegra_Xtgbot for telegraph links of photos and videos
+• Use Telegram public channel or group message links
+• You can send any type of links for attaching
 
-𝗠𝗮𝗱𝗲 𝗯𝘆 🦸
+Made by 🦸
 """
 ABOUT_TEXT = """
 - **Bot :** `Attach Bot`
@@ -44,8 +44,8 @@ ABOUT_TEXT = """
 """
 START_BUTTONS = InlineKeyboardMarkup(
         [[
-        InlineKeyboardButton('📣 𝗖𝗵𝗮𝗻𝗻𝗲𝗹', url='https://t.me/Tg_Galaxy'),
-        InlineKeyboardButton('🗣️ 𝗢𝘄𝗻𝗲𝗿', url='https://t.me/HydraLivegrambot)
+        InlineKeyboardButton('📣 Channel', url='https://t.me/Tg_Galaxy'),
+        InlineKeyboardButton('🗣️ Owner', url='https://t.me/HydraLivegrambot)
         ],[
         InlineKeyboardButton('Help', callback_data='help'),
         InlineKeyboardButton('About', callback_data='about'),
