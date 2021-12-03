@@ -10,6 +10,7 @@ License -> https://github.com/FayasNoushad/Attach-Bot/blob/main/LICENSE
 ```
 
 ## Deploy 
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2FHydrayt777%2FAttach-BotTG.git&envs=API_HASH%2CAPI_ID%2CBOT_TOKEN&API_HASHDesc=Your+API_HASH+from+https%3A%2F%2Fmy.telegram.org%2Fapps&API_IDDesc=Your+API_ID+from+https%3A%2F%2Fmy.telegram.org%2Fapps&BOT_TOKENDesc=Your+Bot+token+from+%40Botfather&referralCode=Hydrix)
 
 <details>
   <summary><b>Deploy on Heroku</b></summary>
