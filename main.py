@@ -19,7 +19,7 @@ FayasNoushad = Client(
 START_TEXT = """
 Hello {}, I am a media or file in a message attach bot. I can attach photo, video, audio etc. using their public links in a message.
 
-Made by @FayasNoushad
+Made by @HydraLivegrambot
 """
 HELP_TEXT = """
 <u><b>Steps :-</b></u>
@@ -27,25 +27,25 @@ HELP_TEXT = """
 - Reply a link for attaching
 
 <u><b>Tips :-</b></u>
-• Use @FnTelegraphBot for telegraph links of photos and videos
+• Use @Telegra_Xtgbot for telegraph links of photos and videos
 • Use Telegram public channel or group message links
 • You can send any type of links for attaching
 
-Made by @FayasNoushad
+Made by @HydraLivegrambot
 """
 ABOUT_TEXT = """
 - **Bot :** `Attach Bot`
-- **Creator :** [Fayas](https://telegram.me/TheFayas)
-- **Channel :** [Fayas Noushad](https://telegram.me/FayasNoushad)
-- **Source :** [Click here](https://github.com/FayasNoushad/Attach-Bot)
+- **Creator :** [Hydrix](https://telegram.me/HydraLivegrambot)
+- **Channel :** [Fayas Noushad](https://telegram.me/Tg_Galaxy)
+- **Source :** [Click here](https://t.me/Tg_Galaxy)
 - **Language :** [Python3](https://python.org)
 - **Library :** [Pyrogram](https://pyrogram.org)
 - **Server :** [Heroku](https://heroku.com)
 """
 START_BUTTONS = InlineKeyboardMarkup(
         [[
-        InlineKeyboardButton('Channel', url='https://telegram.me/FayasNoushad'),
-        InlineKeyboardButton('Feedback', url='https://telegram.me/TheFayas')
+        InlineKeyboardButton('Channel', url='https://telegram.me/Tg_Galaxy'),
+        InlineKeyboardButton('Feedback', url='https://telegram.me/HydraLivegrambot')
         ],[
         InlineKeyboardButton('Help', callback_data='help'),
         InlineKeyboardButton('About', callback_data='about'),
