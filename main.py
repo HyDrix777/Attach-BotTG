@@ -36,7 +36,7 @@ Made by @HydraLivegrambot
 ABOUT_TEXT = """
 - **Bot :** `Attach Bot`
 - **Creator :** [Hydrix](https://telegram.me/HydraLivegrambot)
-- **Channel :** [Fayas Noushad](https://telegram.me/Tg_Galaxy)
+- **Channel :** [Tg Galaxy](https://telegram.me/Tg_Galaxy)
 - **Source :** [Click here](https://t.me/Tg_Galaxy)
 - **Language :** [Python3](https://python.org)
 - **Library :** [Pyrogram](https://pyrogram.org)
